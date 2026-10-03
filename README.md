@@ -2,7 +2,7 @@
 
 Ein schlanker Countdown-Timer für den Unterricht – gemacht für Beamer, Smartboard und Tablet.
 
-**▶ Timer öffnen: https://DEIN-GITHUB-NAME.github.io/unterrichtstimer/**
+**▶ Timer öffnen: https://florianloyns.github.io/unterrichtstimer/**
 
 Datenschutzfreundlich by design: eine einzige, in sich geschlossene HTML-Datei. Keine Cookies, keine Speicherung auf dem Gerät, keine externen Quellen, kein Tracking.
 
