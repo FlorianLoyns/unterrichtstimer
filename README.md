@@ -54,10 +54,10 @@ Fertige Beispiele zum Kopieren:
 
 | Situation | Link |
 |---|---|
-| 15 Min. Einzelarbeit mit Auftrag | https://DEIN-GITHUB-NAME.github.io/unterrichtstimer/?min=15&auftrag=Pflegeprobleme%20formulieren |
-| 5 Min. Pause, startet sofort | https://DEIN-GITHUB-NAME.github.io/unterrichtstimer/?min=5&start=1&auftrag=Pause |
-| Gruppenarbeit, dunkel, eigene Schnellwahl | https://DEIN-GITHUB-NAME.github.io/unterrichtstimer/?dunkel=1&presets=10,20,30,40 |
-| Prüfungssituation ohne Ton | https://DEIN-GITHUB-NAME.github.io/unterrichtstimer/?min=45&ton=0&auftrag=Klausur |
+| 15 Min. Einzelarbeit mit Auftrag | https://florianloyns.github.io/unterrichtstimer/?min=15&auftrag=Pflegeprobleme%20formulieren |
+| 5 Min. Pause, startet sofort | https://florianloyns.github.io/unterrichtstimer/?min=5&start=1&auftrag=Pause |
+| Gruppenarbeit, dunkel, eigene Schnellwahl | https://florianloyns.github.io/unterrichtstimer/?dunkel=1&presets=10,20,30,40 |
+| Prüfungssituation ohne Ton | https://florianloyns.github.io/unterrichtstimer/?min=45&ton=0&auftrag=Klausur |
 
 Leerzeichen im Auftrag als `%20` schreiben. Umlaute funktionieren in den meisten Programmen direkt, sicherer ist die kodierte Form (`ä` = `%C3%A4`, `ö` = `%C3%B6`, `ü` = `%C3%BC`, `ß` = `%C3%9F`).
 
